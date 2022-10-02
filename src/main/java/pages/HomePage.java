@@ -53,6 +53,9 @@ public void clickUnlockButtonField() {
 }
 
 
+
+
+
 @FindBy(id="cms-label-tc")
 WebElement iAgreeCheckBox;
 
@@ -60,5 +63,7 @@ public void clickIAgreeCheckBoxField() {
 	iAgreeCheckBox.click();
 	
 }
+
+
 
 }

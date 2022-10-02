@@ -6,8 +6,8 @@
       <class name="TestPages.HomePageTest">
         <methods>
           <include name="tearUp"/>
-          <include name="clickNewUserRegistationButtonTest"/>
           <include name="setUp"/>
+          <include name="passWordFieldclickTest2"/>
         </methods>
       </class> <!-- TestPages.HomePageTest -->
     </classes>
